@@ -21,8 +21,9 @@ const Todolist = () => {
     setList(tempList);
   };
   const editTasks = (ite, ind) => {
-    setTask(ite);
     setEditTask(ind);
+    setTask(ite);
+
   };
   return (
     <>
