@@ -8,7 +8,7 @@ const Noti = () => {
     setShow(true);
   };
   return (
-    <div className="maindiv">
+    <div className={show?"maindivgrey":"maindiv"}>
       <div classname="form">
         <input
           onChange={(e) => setInputValue(e.target.value)}
