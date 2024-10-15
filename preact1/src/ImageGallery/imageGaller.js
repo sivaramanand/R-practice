@@ -1,9 +1,9 @@
 import React, { useState } from "react";
-import img1 from "../Image Gallery/Images/image1.jpg";
-import img2 from "../Image Gallery/Images/image2.jpg";
-import img3 from "../Image Gallery/Images/image3.jpg";
-import img4 from "../Image Gallery/Images/image4.jpg";
-import img5 from "../Image Gallery/Images/image5.jpg";
+import img1 from "../ImageGallery/Images/image1.jpg";
+import img2 from "../ImageGallery/Images/image2.jpg";
+import img3 from "../ImageGallery/Images/image3.jpg";
+import img4 from "../ImageGallery/Images/image4.jpg";
+import img5 from "../ImageGallery/Images/image5.jpg";
 import { FaRegCircle } from "react-icons/fa6";
 
 import "./imagegallery.css";
